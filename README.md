@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Matias Ramirez</h1>
 <h3 align="center">I'm a dev with a passion for algorithms, be it java, python, c++. I love trying to find solutions to different algorithms, whether or not they are for competitive programming.</h3>
 
